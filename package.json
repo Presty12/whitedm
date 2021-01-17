@@ -1,0 +1,25 @@
+{
+  "name": "oneridm",
+  "version": "0.0.1",
+  "description": "Adam ol",
+  "main": "shina.js",
+  "scripts": {
+    "start": "node shina.js",
+    "test": "nodemon shinaa.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.2.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": "https://glitch.com/edit/#!/hello-express"
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
